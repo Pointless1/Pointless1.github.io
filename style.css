@@ -1,11 +1,40 @@
-body {
-  background-color: powderblue;
+body{
+	background-color:LightBlue;
+}
+            
+h1{
+	background-color:LawnGreen;
+}
+            
+h2{
+	background-color:LightYellow;
 }
 
-h1 {
-  color: blue;
+h3{
+	background-color:Brown;
 }
 
-p {
-  color: red;
+h4{
+	background-color:DarkCyan;
 }
+            
+ul{
+	background-color:Sienna;
+}
+            
+ol{
+	background-color:Orchid;
+}
+            
+li{
+	font-size:20pxl;
+} 
+
+p{
+	background-color:Red;
+}        
+
+img{
+	size:500pxl;
+}
+
